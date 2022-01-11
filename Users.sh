@@ -1,0 +1,5 @@
+echo "This file is having the users information"
+echo "krishna"
+echo "keerthi"
+echo "Athisha"
+echo "Ayushi"
